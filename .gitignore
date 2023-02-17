@@ -17,6 +17,9 @@
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
+# Never ignore Asset meta data
+!/[Aa]ssets/**/*.meta
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 
@@ -70,3 +73,31 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# WWISE Ignored Files
+.wavFile.txt
+
+# Validation Cache
+# WWISE Version Control_WwiseProject.cyber.validationcache
+*.validationcache
+*.wsettings
+*.akd
+SoundbanksInfo.xml
+PluginInfo.xml
+
+# Optional and may be integrated into WWISE workflow. Talk to audio programmer
+# NameOfSoundBank.txt
+# Cache folder
+
+#.cache
+CacheVersion
+SoundBankInfoCache.dat
+Wwise.dat
+
+# WWise - trying to keep repo size down
+/Assets/Wwise/API/Runtime/Plugins/Mac/
+/Assets/Wwise/API/Runtime/Plugins/Windows/x86/
+/Assets/Wwise/Documentation/AppleCommon/
+/Assets/Wwise/API/Runtime/Generated/Mac/
+/WwiseUnityIntegration_Mac_Src.zip
+
