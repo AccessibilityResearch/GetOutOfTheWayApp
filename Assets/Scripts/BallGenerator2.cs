@@ -27,9 +27,12 @@ public class BallGenerator2 : MonoBehaviour
 
     void Generate()
     {
-        /* Array containing starting coordinates for spheres */
-        Vector3[] StartLocs = { new Vector3(98, 2, 0), new Vector3(98, 2, 44), new Vector3(-51, 2, 98), new Vector3(36, 2, 98), new Vector3(-96, 2, -98) };
 
+        /* Array containing starting coordinates for spheres */
+        Vector3[] StartLocs = { new Vector3(Random.Range(20, 100), 0, Random.Range(-100, -20)), new Vector3(Random.Range(20, 100), 0, Random.Range(20, 100)), new Vector3(Random.Range(-100, -20), 0, Random.Range(20, 100)), new Vector3(Random.Range(-100, -20), 0, Random.Range(-100, -20)) };
+        /* Vector3[] StartLocs = { new Vector3(98, 2, 0), new Vector3(98, 2, 44), new Vector3(-51, 2, 98), new Vector3(36, 2, 98), new Vector3(-96, 2, -98) };
+
+    
         /* Array containing velocities applied to sphere after spawning. Corresponds to index of StarLoc coordinates to ensure path does not go through a pillar */
         Vector3[] Paths = { new Vector3(-9, 0, -8), new Vector3(-10, 0, 0), new Vector3(4, 0, -4), new Vector3(0, 0, -9), new Vector3(3, 0, 7) };
 
