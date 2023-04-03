@@ -133,8 +133,9 @@
 					<ChildrenList>
 						<AudioFileSource Name="The Creature 1" ID="{5D3B1C26-B60E-485E-99BB-7DE9EB1F3259}">
 							<PropertyList>
-								<Property Name="TrimBegin" Type="Real64" Value="11.3"/>
-								<Property Name="TrimEnd" Type="Real64" Value="17"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimBegin" Type="Real64" Value="10.8563476053665"/>
+								<Property Name="TrimEnd" Type="Real64" Value="13.3620503640053"/>
 							</PropertyList>
 							<Language>SFX</Language>
 							<AudioFile>The Creature 1.wav</AudioFile>
@@ -165,6 +166,10 @@
 					</ReferenceList>
 					<ChildrenList>
 						<AudioFileSource Name="MUSCChim_InsJ_Hand-Bell_01-16_High-C" ID="{FAF1B2DE-FE77-4726-A5E7-BA899A0FF903}">
+							<PropertyList>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimEnd" Type="Real64" Value="1.26937122913992"/>
+							</PropertyList>
 							<Language>SFX</Language>
 							<AudioFile>MUSCChim_InsJ_Hand-Bell_01-16_High-C.wav</AudioFile>
 							<MediaIDList>

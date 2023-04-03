@@ -4,7 +4,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	3696976017	Play_The_Creature_1			\Default Work Unit\Play_The_Creature_1	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	232375660	The Creature 1	C:\Users\mewpl\OneDrive\Desktop\Files\School\2023\2023S\CS Project\repos\MapAccessibilityProject\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Windows\SFX\The Creature 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\The Creature 1		12193112
-	277644868	Engine_03	C:\Users\mewpl\OneDrive\Desktop\Files\School\2023\2023S\CS Project\repos\MapAccessibilityProject\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Windows\SFX\Engine_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine_03		243684
-	775150697	MUSCChim_InsJ_Hand-Bell_01-16_High-C	C:\Users\mewpl\OneDrive\Desktop\Files\School\2023\2023S\CS Project\repos\MapAccessibilityProject\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Windows\SFX\MUSCChim_InsJ_Hand-Bell_01-16_High-C_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MUSCChim_InsJ_Hand-Bell_01-16_High-C		1091228
+	232375660	The Creature 1	C:\Users\Skeeter\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Windows\SFX\The Creature 1_50B3ADEF.wem		\Actor-Mixer Hierarchy\Default Work Unit\The Creature 1		442100
+	277644868	Engine_03	C:\Users\Skeeter\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Windows\SFX\Engine_03_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine_03		243684
+	775150697	MUSCChim_InsJ_Hand-Bell_01-16_High-C	C:\Users\Skeeter\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Windows\SFX\MUSCChim_InsJ_Hand-Bell_01-16_High-C_3A104371.wem		\Actor-Mixer Hierarchy\Default Work Unit\MUSCChim_InsJ_Hand-Bell_01-16_High-C		243816
 

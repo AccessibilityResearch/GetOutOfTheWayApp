@@ -39,35 +39,35 @@
 				<Bus Id="3803692087" Name="Master Audio Bus"/>
 			</Busses>
 		</SoundBank>
-		<SoundBank Id="1786443913" Type="User" Language="SFX" Hash="{F54CF6DD-C58B-E7EE-2ED4-DEC1DE578F50}">
+		<SoundBank Id="1786443913" Type="User" Language="SFX" Hash="{CF7BFD7E-1AFD-DEBE-C782-AD459A023DD5}">
 			<ShortName>new_guy</ShortName>
 			<Path>new_guy.bnk</Path>
 			<Media>
 				<File Id="232375660" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>The Creature 1.wav</ShortName>
-					<CachePath>SFX/The Creature 1_10C4C929.wem</CachePath>
+					<CachePath>SFX/The Creature 1_50B3ADEF.wem</CachePath>
 				</File>
 				<File Id="277644868" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Engine_03.wav</ShortName>
-					<CachePath>SFX/Engine_03_10C4C929.wem</CachePath>
+					<CachePath>SFX/Engine_03_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="775150697" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>MUSCChim_InsJ_Hand-Bell_01-16_High-C.wav</ShortName>
-					<CachePath>SFX/MUSCChim_InsJ_Hand-Bell_01-16_High-C_10C4C929.wem</CachePath>
+					<CachePath>SFX/MUSCChim_InsJ_Hand-Bell_01-16_High-C_3A104371.wem</CachePath>
 				</File>
 			</Media>
 			<Events>
-				<Event Id="361325872" Name="Play_Engine_03" DurationType="OneShot" DurationMin="2.7617688" DurationMax="2.7617688">
+				<Event Id="361325872" Name="Play_Engine_03" MaxAttenuation="85" DurationType="Infinite">
 					<MediaRefs>
 						<MediaRef Id="277644868"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="2587020279" Name="Play_MUSCChim_InsJ_Hand_Bell_01_16_High_C" DurationType="OneShot" DurationMin="5.6829896" DurationMax="5.6829896">
+				<Event Id="2587020279" Name="Play_MUSCChim_InsJ_Hand_Bell_01_16_High_C" MaxAttenuation="100" DurationType="Infinite">
 					<MediaRefs>
 						<MediaRef Id="775150697"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3696976017" Name="Play_The_Creature_1" DurationType="OneShot" DurationMin="69.12104" DurationMax="69.12104">
+				<Event Id="3696976017" Name="Play_The_Creature_1" MaxAttenuation="51" DurationType="Infinite">
 					<MediaRefs>
 						<MediaRef Id="232375660"/>
 					</MediaRefs>
@@ -75,5 +75,5 @@
 			</Events>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{8221ED5C-E900-D0DB-A54B-769536FEDA71}</FileHash>
+	<FileHash>{996E7EB0-7DFA-5D85-DD58-4A274A5CE5CB}</FileHash>
 </SoundBanksInfo>
