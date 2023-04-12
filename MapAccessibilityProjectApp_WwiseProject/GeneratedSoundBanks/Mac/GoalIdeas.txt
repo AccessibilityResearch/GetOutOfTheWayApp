@@ -1,0 +1,28 @@
+Event	ID	Name			Wwise Object Path	Notes
+	248404309	Play_GoalBluesRiff			\Default Work Unit\Play_GoalBluesRiff	
+	968894012	Play_GoalViolin			\Default Work Unit\Play_GoalViolin	
+	1804908068	Play_GoalGuitarStratocaster			\Default Work Unit\Play_GoalGuitarStratocaster	
+	1962635365	Play_GoalMelodicDrums			\Default Work Unit\Play_GoalMelodicDrums	
+	2544616824	Play_DontUse			\Default Work Unit\Play_DontUse	
+	2605453859	Play_GoalJazzPiano			\Default Work Unit\Play_GoalJazzPiano	
+	3033230214	Play_GoalLightJazz			\Default Work Unit\Play_GoalLightJazz	
+	3550486472	Play_GoalGuitarChords			\Default Work Unit\Play_GoalGuitarChords	
+	3682386922	Play_GoalGuitarMetal			\Default Work Unit\Play_GoalGuitarMetal	
+	3803165818	Play_GoalJazzGuitar			\Default Work Unit\Play_GoalJazzGuitar	
+	4059286853	Play_GoalDreamyTropics			\Default Work Unit\Play_GoalDreamyTropics	
+	4088521484	Play_GoalClassicalGuitar			\Default Work Unit\Play_GoalClassicalGuitar	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	59960322	GoalDreamyTropics	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\555802__sergequadrado__tropical-relaxing-loop_BCBF3D73.wem		\Actor-Mixer Hierarchy\GoalSounds\GoalDreamyTropics		5306168
+	71118503	GoalBluesRiff	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\507995__tosha73__blues-riff-110bpm_67C1C11C.wem		\Actor-Mixer Hierarchy\GoalSounds\GoalBluesRiff		4604696
+	171840345	GoalLightJazz	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\218807__valentinsosnitskiy__light-jazz_CE5D8EEF.wem		\Actor-Mixer Hierarchy\GoalSounds\GoalLightJazz		7619084
+	213916489	GoalMelodicDrums	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\640097__timouse__melodic-beat-220619_BBBA0E44.wem		\Actor-Mixer Hierarchy\GoalSounds\GoalMelodicDrums		3292240
+	218826513	DontUse	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\588640__urkki69__a-soldier-playing-bagpipes-in-edinborough_A5B358B3.wem		\Actor-Mixer Hierarchy\GoalSounds\DontUse		2761224
+	232144342	GoalJazzGuitar	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\49658__sub-d__more-jazz-guitar_6C291973.wem		\Actor-Mixer Hierarchy\GoalSounds\GoalJazzGuitar		2215892
+	311765173	GoalClassicalGuitar	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\671045__trader_one__dl-120-bpm-classical-guitar_E83E0988.wem		\Actor-Mixer Hierarchy\GoalSounds\GoalClassicalGuitar		3183948
+	356383678	GoalGuitarStratocaster	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\192682__zagi2__odd-stratocaster-guitar-loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\GoalSounds\GoalGuitarStratocaster		5641140
+	544386767	GoalGuitarChords	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\48650__greeniguana00__riff3_062E20E6.wem		\Actor-Mixer Hierarchy\GoalSounds\GoalGuitarChords		6220260
+	670774191	GoalViolin	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\538226__zoeyholt__violin-music_C5579977.wem		\Actor-Mixer Hierarchy\GoalSounds\GoalViolin		2727904
+	919312182	GoalGuitarMetal	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\438984__oymaldonado__metal-intro_007B2B4D.wem		\Actor-Mixer Hierarchy\GoalSounds\GoalGuitarMetal		6698668
+	1022368511	GoalJazzPiano	C:\Users\bonkl\Desktop\UnityRepo\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\571371__szegvari__jazz-piano-and-orchestra-eq_D99810D5.wem		\Actor-Mixer Hierarchy\GoalSounds\GoalJazzPiano		7155788
+
