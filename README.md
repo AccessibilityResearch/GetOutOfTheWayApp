@@ -198,3 +198,5 @@ Make sure Git Bash as well as Unity 2021.3.17f1 and WWise 2022.1.1.8100 are inst
 5. Navigate to the folder where the repository was cloned and click "Add Project"
     Make sure the folder you are in is the "MapAccessibilityProjectApp" folder
 6. Open the project in the list on the Unity Hub Projects page.
+
+Test
